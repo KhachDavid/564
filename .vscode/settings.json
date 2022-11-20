@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.r": "r",
+        "heapfile.C": "cpp",
+        "testfile.C": "cpp",
+        "db.C": "cpp",
+        "buf.C": "cpp"
+    }
+}
